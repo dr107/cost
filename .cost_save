@@ -1,97 +1,112 @@
 (dp1
-S'July 23 2013'
+S'July 30 2013'
 p2
+(S'Food; Lunch: 6.69'
+tp3
+sS'July 29 2013'
+p4
+(S'Food; Lunch: 4.50'
+S'Food; groceries: 37'
+tp5
+sS'July 25 2013'
+p6
+(S'food; Dinner: 8.65'
+tp7
+sS'July 31 2013'
+p8
+(S'Coffee; Coffee: 2.11'
+S'Food; Lunch: 1.50'
+tp9
+sS'August 08 2013'
+p10
+(S'Misc.; Brotein: 4.50'
+tp11
+sS'July 9 2013'
+p12
+(S'coffee; coffee: 5.15'
+tp13
+sS'July 24 2013'
+p14
+(S'Food; lunch: 7.55'
+tp15
+sS'July 26 2013'
+p16
+(S'Food; Lunch: 6.69'
+tp17
+sS'July 17 2013'
+p18
+(S'Food; 711: 6.00'
+tp19
+sS'July 8 2013'
+p20
+(S'coffee; coffee: 2.11'
+tp21
+sS'July 20 2013'
+p22
+(S'Food; groceries: 43.00'
+S'Misc.; party: 20.00'
+tp23
+sS'July 27 2013'
+p24
+(S'Food; eggs: 2.50'
+tp25
+sS'July 28 2013'
+p26
+(S'Food; Dinner: 7.50'
+S'Food; Breakfast: 3.50'
+tp27
+sS'July 16 2013'
+p28
+(S'Misc.; brotein: 28.00'
+S'Food; cornbread: 1.00'
+tp29
+sS'July 21 2013'
+p30
+(S'Food; dinner/movie: 25.00'
+tp31
+sS'July 23 2013'
+p32
 (S'coffee; coffee: 5.19'
 S'Misc.; brotein: 3.50'
 S'Misc.; Herp: 1.00'
-tp3
-sS'July 17 2013'
-p4
-(S'Food; 711: 6.00'
-tp5
-sS'July 29 2013'
-p6
-(S'Food; Lunch: 4.50'
-S'Food; groceries: 37'
-tp7
-sS'July 8 2013'
-p8
-(S'coffee; coffee: 2.11'
-tp9
-sS'July 25 2013'
-p10
-(S'food; Dinner: 8.65'
-tp11
-sS'July 20 2013'
-p12
-(S'Food; groceries: 43.00'
-S'Misc.; party: 20.00'
-tp13
+tp33
+sS'July 13 2013'
+p34
+(S'Food; groceries: 49.73'
+S'Misc.; herp: 1.00'
+tp35
+sS'August 07 2013'
+p36
+(S'Food; Lunch: 8.88'
+tp37
+sS'July 19 2013'
+p38
+(S'Food; pizza: 7.50'
+tp39
 sS'July 12 2013'
-p14
+p40
 (S'Food; lunch: 6.69'
 S'Food; dinner: 8.63'
 S'Food; bagel: 2.65'
-tp15
-sS'July 11 2013'
-p16
-(S'Food; lunch: 6.69'
-tp17
-sS'July 27 2013'
-p18
-(S'Food; eggs: 2.50'
-tp19
-sS'July 31 2013'
-p20
-(S'Coffee; Coffee: 2.11'
-S'Food; Lunch: 1.50'
-tp21
-sS'July 14 2013'
-p22
-(S'Food; ctb: 4.75'
-tp23
-sS'July 28 2013'
-p24
-(S'Food; Dinner: 7.50'
-S'Food; Breakfast: 3.50'
-tp25
-sS'July 30 2013'
-p26
-(S'Food; Lunch: 6.69'
-tp27
-sS'July 9 2013'
-p28
-(S'coffee; coffee: 5.15'
-tp29
-sS'July 19 2013'
-p30
-(S'Food; pizza: 7.50'
-tp31
-sS'July 24 2013'
-p32
-(S'Food; lunch: 7.55'
-tp33
-sS'July 16 2013'
-p34
-(S'Misc.; brotein: 28.00'
-S'Food; cornbread: 1.00'
-tp35
-sS'July 13 2013'
-p36
-(S'Food; groceries: 49.73'
-S'Misc.; herp: 1.00'
-tp37
-sS'July 21 2013'
-p38
-(S'Food; dinner/movie: 25.00'
-tp39
-sS'July 26 2013'
-p40
-(S'Food; Lunch: 6.69'
 tp41
-sS'August 02 2013'
+sS'July 14 2013'
 p42
+(S'Food; ctb: 4.75'
+tp43
+sS'July 11 2013'
+p44
+(S'Food; lunch: 6.69'
+tp45
+sS'August 05 2013'
+p46
+(S'Misc.; Shoes: 40.00'
+S'Food; Drink: 2.00'
+S'Misc.; Gym: 65.00'
+S'Food; Lunch: 7.00'
+tp47
+sS'August 02 2013'
+p48
 (S'Misc.; Brotein: 3.50'
 S'Food; Lunch: 6.69'
-tp43
+tp49
 s.

@@ -238,7 +238,7 @@ def addComplete(d, l):
         if len(l)==2:
             catSug=getMostRecentCat(d, l[0])
             category=raw_input("Type the category of this item (hit enter to put it in "+catSug +")\n")
-            addCost(d, l[0], l[1], category.title() if category!='' else 'Misc.')
+            addCost(d, l[0], l[1], category.title() if category!='' else catSug)
         elif len(l)==3:
             addCost(d, l[0], l[1], l[2].title())
         else: 
